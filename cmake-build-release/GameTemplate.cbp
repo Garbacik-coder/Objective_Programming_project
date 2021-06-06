@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GameTemplate"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\SFMLGCC\;CMake Files\..\..\..\..\SFMLGCC\lib\;CMake Files\..\..\..\..\SFMLGCC\lib\cmake\;CMake Files\..\..\..\..\SFMLGCC\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/karol/Desktop/XD/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/karol/Desktop/XD/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/karol/Desktop/XD/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/karol/Desktop/XD/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/karol/Desktop/XD/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/karol/Desktop/XD/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/karol/Desktop/XD/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/karol/Desktop/XD/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/karol/Desktop/XD/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/karol/Desktop/XD/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GameTemplate">
+				<Option output="C:/Users/karol/Desktop/XD/cmake-build-release/GameTemplate.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/karol/Desktop/XD/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/karol/Desktop/XD"/>
+					<Add directory="C:/SFMLGCC/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/karol/Desktop/XD/cmake-build-release/Makefile&quot;  VERBOSE=1 GameTemplate"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/karol/Desktop/XD/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/karol/Desktop/XD/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/karol/Desktop/XD/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GameTemplate/fast">
+				<Option output="C:/Users/karol/Desktop/XD/cmake-build-release/GameTemplate.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/karol/Desktop/XD/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/karol/Desktop/XD"/>
+					<Add directory="C:/SFMLGCC/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/karol/Desktop/XD/cmake-build-release/Makefile&quot;  VERBOSE=1 GameTemplate/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/karol/Desktop/XD/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/karol/Desktop/XD/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/karol/Desktop/XD/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/karol/Desktop/XD/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/karol/Desktop/XD/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/karol/Desktop/XD/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/karol/Desktop/XD/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/karol/Desktop/XD/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/karol/Desktop/XD/GamePlay/GamePlay.cpp">
+			<Option target="GameTemplate"/>
+		</Unit>
+		<Unit filename="C:/Users/karol/Desktop/XD/GamePlay/GamePlay.h">
+			<Option target="GameTemplate"/>
+		</Unit>
+		<Unit filename="C:/Users/karol/Desktop/XD/GamePlay/Player.cpp">
+			<Option target="GameTemplate"/>
+		</Unit>
+		<Unit filename="C:/Users/karol/Desktop/XD/GamePlay/Player.h">
+			<Option target="GameTemplate"/>
+		</Unit>
+		<Unit filename="C:/Users/karol/Desktop/XD/GamePlay/Przeszkoda.cpp">
+			<Option target="GameTemplate"/>
+		</Unit>
+		<Unit filename="C:/Users/karol/Desktop/XD/GamePlay/Przeszkoda.h">
+			<Option target="GameTemplate"/>
+		</Unit>
+		<Unit filename="C:/Users/karol/Desktop/XD/engine/GameManager.cpp">
+			<Option target="GameTemplate"/>
+		</Unit>
+		<Unit filename="C:/Users/karol/Desktop/XD/engine/GameManager.h">
+			<Option target="GameTemplate"/>
+		</Unit>
+		<Unit filename="C:/Users/karol/Desktop/XD/main.cpp">
+			<Option target="GameTemplate"/>
+		</Unit>
+		<Unit filename="C:/Users/karol/Desktop/XD/states/GamePlay/GamePlayController.cpp">
+			<Option target="GameTemplate"/>
+		</Unit>
+		<Unit filename="C:/Users/karol/Desktop/XD/states/GamePlay/GamePlayController.h">
+			<Option target="GameTemplate"/>
+		</Unit>
+		<Unit filename="C:/Users/karol/Desktop/XD/states/Menu/MenuController.cpp">
+			<Option target="GameTemplate"/>
+		</Unit>
+		<Unit filename="C:/Users/karol/Desktop/XD/states/Menu/MenuController.h">
+			<Option target="GameTemplate"/>
+		</Unit>
+		<Unit filename="C:/Users/karol/Desktop/XD/states/OptionsContoller/OptionsController.cpp">
+			<Option target="GameTemplate"/>
+		</Unit>
+		<Unit filename="C:/Users/karol/Desktop/XD/states/OptionsContoller/OptionsController.h">
+			<Option target="GameTemplate"/>
+		</Unit>
+		<Unit filename="C:/Users/karol/Desktop/XD/states/Scores/ScoresController.cpp">
+			<Option target="GameTemplate"/>
+		</Unit>
+		<Unit filename="C:/Users/karol/Desktop/XD/states/Scores/ScoresController.h">
+			<Option target="GameTemplate"/>
+		</Unit>
+		<Unit filename="C:/Users/karol/Desktop/XD/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/karol/Desktop/XD/../../../../SFMLGCC/lib/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\SFMLGCC\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/Users/karol/Desktop/XD/../../../../SFMLGCC/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\SFMLGCC\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/Users/karol/Desktop/XD/../../../../SFMLGCC/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\SFMLGCC\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/Users/karol/Desktop/XD/../../../../SFMLGCC/lib/cmake/SFML/SFMLSharedTargets-debug.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\SFMLGCC\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/Users/karol/Desktop/XD/../../../../SFMLGCC/lib/cmake/SFML/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\SFMLGCC\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/Users/karol/Desktop/XD/../../../../SFMLGCC/lib/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\SFMLGCC\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

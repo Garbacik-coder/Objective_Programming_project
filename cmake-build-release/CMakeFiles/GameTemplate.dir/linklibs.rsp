@@ -1,0 +1,1 @@
+C:/SFMLGCC/lib/libsfml-graphics.a C:/SFMLGCC/lib/libsfml-audio.a C:/SFMLGCC/lib/libsfml-window.a C:/SFMLGCC/lib/libsfml-system.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

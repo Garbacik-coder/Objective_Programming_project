@@ -1,0 +1,3 @@
+C:/Users/karol/Desktop/XD/cmake-build-release/CMakeFiles/rebuild_cache.dir
+C:/Users/karol/Desktop/XD/cmake-build-release/CMakeFiles/GameTemplate.dir
+C:/Users/karol/Desktop/XD/cmake-build-release/CMakeFiles/edit_cache.dir

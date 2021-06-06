@@ -1,0 +1,1 @@
+U can lanuch the game by opening cmake-build-release/GameTemplate
